@@ -24,7 +24,7 @@ The following charts were presented in the discussion section of my Bachelor's t
 
 ![alt text](Charts/SpesaRelativaDegliIntervistatiPerProvenienza.jpeg?raw=true)
 
-![alt text](Charts/Torta.png?raw=true)
+![alt text](Charts/torta.png?raw=true)
 
 ![alt text](Charts/Torta4_5.png?raw=true)
 
